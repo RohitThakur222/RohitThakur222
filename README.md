@@ -30,6 +30,8 @@ I am a student pursuing BE.CSE from Chandigrah University, India.
   <img width="45px"  src="https://img.icons8.com/color/512/html-5.png"/>
   <img width="45px"  src="https://img.icons8.com/fluency/512/css3.png"/>
   <img width="45px"  src="https://img.icons8.com/color/512/javascript.png"/>
+  <img width="45px" src="https://imgs.search.brave.com/8oFHR4xi_qBTFdIbQG1K0FmaDamE6VQA24TRaPLmwl0/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pY29u/cy52ZXJ5aWNvbi5j/b20vcG5nLzEyOC9h/cHBsaWNhdGlvbi9k/ZXNpZ25lci1pY29u/L3NxbC01LnBuZw"/>
+
 </p>
 <hr>
 
