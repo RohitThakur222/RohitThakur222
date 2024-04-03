@@ -12,7 +12,7 @@
 
 <h3 > About </h3>
 
-I am a student pursuing BE.CSE from Chandigrah University, India. 
+I am a student Completed Bachelor of Engineering Computer Science from Chandigrah University, India. 
 <hr>
 
 <!-- [![RohitThakur222 GitHub stats](https://github-readme-stats.vercel.app/api?username=RohitThakur222)](https://github.com/RohitThakur222) -->
