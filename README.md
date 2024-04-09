@@ -18,9 +18,9 @@ I am a Front End Developer Completed  Bachelor of Engineering Computer Science f
 <!-- [![RohitThakur222 GitHub stats](https://github-readme-stats.vercel.app/api?username=RohitThakur222)](https://github.com/RohitThakur222) -->
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=RohitThakur222&theme=neon-palenight&hide_border=false&properties=border">   
   
-<!--| <a href="https://github.com/RohitThakur222"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RohitThakur222&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="RohitThakur222's github stats" /></a> | <a href="https://github.com/RohitThakur222"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitThakur222&layout=compact&theme=buefy&hide_border=true" /></a> |
+ <a href="https://github.com/RohitThakur222"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RohitThakur222&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="RohitThakur222's github stats" /></a> | <a href="https://github.com/RohitThakur222"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitThakur222&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-<h3> Languages, Tools & Technologies</h3> -->
+<h3> Languages, Tools & Technologies</h3>
 
 <p align="left">
   
